@@ -1,0 +1,72 @@
+. .......:iiiiiii:i:ii:::.::i:i::ii:. . .                                            i7:.:i:::. :iir7rvriiii77vr777r.   :7LYL7v7v7v7L7LvL7L7L7LLLrirv7v7L7v7Li:.:i77i
+.        ..:::::.....:.::....:.:.:.. ..                                              :ii::.:..  .::i:i::.:::.iiriri::ri:.:irrririririri7r7rrrrr7iirriririririri:.rrL:
+. . . . ..:ii:i:iirii::iriiii:iir:i:iii.                                             .v7L77:::..::7rLr  .i777i7r7r7LU1L:rrri77v7v7L7L7vvLvLvYvL7LvL7v7L7LvsJusJv77sjs
+.    ... ..::iiiiiiiii:::i:i::::::ir:iii..                                              .ri::i::...ivsi. ..i7sL77vr: r7LLsiivL7v7v777L7L7LLYYv:77v7v7L7L7sr::77Li::ir
+r..   ...   ::rii:i:iiiii:i::::.. .:i:i...    ...                                         r7ri77r:i:::vvLr.  .rvjJL.  rLjLr7vr77v7777r77Lvrr7:i7vrL7L7L7LLr   :ri.   
+7ii.     . ..::i:iii:i:i:iii:ii:     ...       ii.                                        .7r7rriii    iL77i   ...:i    .irr::7J777Lr7rv7i.....:i7r7777v7L7:...:::.. 
+r::::..  .:.::i:::i:::::iii:i::::              :7i:                                         .i7r77r:    7777r.    ..i..  .ii:.....7YjJ1jY77r77vr77L7LvYLss7r777ri::. 
+7::iii::.:.::iii:::iii:i:i:iir::ii.... . ...   ir77. ..i. ...:.....i:. ..:.....i.....::...:i..:r7LJuL7ir7JjjLU7rr7rri7L7iiiL7:  .riii7YuYYLsLYLL7Lvv777r:i:77L7LL7ii:
+u7sirii:iri:iirvJri:iiv77irir7Lrrrri7i.   ::.  .rr7:  .:. .  ..    ..     .                       ..:....:7LvrL77r777777L7v777r::ri::...:vY7LLsvL7L7L7s7ii77L7v7LvJJY
+i:iiii:::i:iii:::i:i::::::::::.::i:.           .ii:.                                                .      .7Y77i::7Lv7777777Yiii::J77.  .i77rrL7L7YLjJ1JJLY7v7L777Y7
+i.iiiiiii:iirii:::iir:i:::::i::.:::..          .r:i.                                                        .i77ui.:rr77Y77rL77:. :7L77r:.:rL:  .rLv: ..i7jsJLL7L7LL7
+r:iiiiiiiiiiii:i:ii::i:iii::::::::...:         :ii::                                                           .:r.....i77:..:rr:. .77i7LjLv77:..i77.      .i7rvLL7Lr
+7i7ii:i:ir7ii:i:r7r:::::r:i:::ii::..:i:.       :r:i.                      .r71qbbPbUsr:                                 .rLi. ::..  7r:.i7L777LLL777L.         i77L7r
+i:iiiiii:iiiirii:iiiii.::::ii:::::ii.::i::     .iii.                     :gBQQddbEEMgZ5Kj.              :i...          .:rr7:::Lvr. .77:.:r777r77L7LLj77i7i:    .i7vi
+r:riiiLri:iiii7i:.:.ii:::..:::::::i::::.:..    .i:r.                    sDgPbdgEQQBMQbbDQS              .i7rvi         ij7rii:.iJLi  :Yr. ..:::.:rv777Lrrir:.    .77r
+iiiiiiirir:::i:i::::.::::....:.i:..::::.       .:ii:                  .bZdbDMQRQMRMRQQMBQb7          .   .777Lr:.       :777r. .7Y77:.:r:  ......ir7rri:.. .  .:...ri
+r:riiii:::rii:i:ii7:::::i::...:ii::.:::        .i:i:                 :QMRgRQBQBBBQQ5s7LsqdR.          :iiiriri777:i:ii:.ir77L:..r7v7v::::.  :.   :7r7ir:..... .:7i:i:
+r:riii:iii:iiiii:i:i:i:i:::ii::::::r::.. .     .iir.                 SQMQQQBZ5YL77i:.::irPQq           .r777iiiLi. .7j7777rr7L7r:r7777ri::..r7:. .rri777rri7r:..rJLv.
+i:i:i:iir:::::rii::::ii:i:::i:::::iri:::...     :ir:                 7BMRRbr:...::::iii::sEg.             :rririi.  :r7777ri77L7ri7r7rrirr7777JL7r7r7777v7YsL7r::isLi
+r:ri:i:i:i:ii:::i::i:i:::i:::::::i::ii::..      :i:i                  .RQE7i::........i7JbMj             .:rrrii..:7r7r7:::77i:rr7rrri::iYYJ7r7LLYvvr7r7ri  .ii::ir7r
+r:ririi:::iii:::::ri:::::ii:::::::::i:iii:......::i:                   7Bq7:....::isDQBQBMQ1:            :7i7r7rriir7r77::L7i.irri7rri:...:iL77ri:i7vr7r77.  .i::i777
+i:ii:iii:iii:::i:::i:i:i:i:iii:i:i:i:i:i:i::...::iii                    QB7LJbZQBBBq5BQBB2ISD: .          :7rri77r:7r7rrr7i::7ri.:77r7r7:.  .7L7:. .i7r77LL7:r77r777:
+r:r:::iiiii:::i:i:::i:iii:i:iiiii:i:i:i:i::ii:::::i:.                   .UPgBBBBBBL  :2gELU1q.i:.         :rL7iii:7rr:rrririrrrrriiirr77v7:  .77s7irv77rrirr777r777: 
+i:riiiiiirii:i:i:i:::::i:iii:::iii:i:ii7::::irii:::i.                    7bS1bMBQJ    ...7L2i.::::          .rri::i:.:r7rrr7rrrriririri7r77r:...:L7i:irriii7r7r77rii 
+r:riiii:::i:r::.::::::::::i:::i:i:i:i:iii:i:i:i:i:i::       ..    ..:   .KP7rvu:  :7XbUirvJr. ..:..           rrr:i.iLr:i77irrririririrr7777Lri.  ::. .:irr::rvvLri: 
+i:iiii:i::::ri:i:::::i:::::::i:::i:i:i:::iii:::iiii::. .     .......::..  isUu: ..  .77LLLsi   .  ..          .i7r:irr.:ir::i7rrrrrririi:iir7v77:.:ri:.::7ii:r:::iir:
+r:r:::::iir::::ir:i:::iii:::::::i:::::::::i:i:::::iii::.......:::....:::.  .:7viirLSBMBB1vjr                    :iriiirrr:iir::iii7rriri:.  .:77rr77L7i:iiii:  .irrr7
+r:i::::iii:i:i:iii:i:i:i:::::::i:::::::i:i:i:::::i::iri:.::::..:::::::::::.   i5Lr:::iiLLLvXDr.:.      ..... .   :ir:irriririi:iii:i:ii7ii:.  .ri:.rLJrr77r7:::r.:r7r
+i.i:::i:::::iri:::::ii:::iii::::::i:::::::i:i:i:i:::::i:ii::::::i::::::::::..  r2:  ..r:i7LLQsu1IsJLi   ..:::::...ir7iriririiiri::::::ririr7:   i:. .:LL7rrr777::i77r
+i:ii:i:::::::i:i:i:::::i:::::::::::i:::::::i:i:::i:i:::::i:::i:i::.::::: .::.. 7QUr.. .:7L7IU7Luj1j5:        ..::::irririririririir7rrr7r:.iir.  ii.   rrr::i:.:r7ir:
+r:iii:::iir:::::ii::::::i::::::::::..:i:::::iii:i:i::::...:::.:.::i:i::........rQZREgdPusLJ2v7jsuYJ7i:i..       ...:77riririiirr7ii::.:.7r:..i7::i777. .rLLr7::irr7ri
+rirr::::::ii:::::iii:::::::::::::i..:::i:::::i:iii:::i::..:::::::::::i:::... .:77Y1bKK5XKXL77LJusJLvrri:.. ....      rL7rrir:...i7i:.....:77r7777Li777r:.ir777i:.:i77
+r:::::i:::::::i::::::::::::::::::.:ii::.::i:i:i:::i:i:::i::.:.::::::::::....:r7rrrLuXbdqbsv7LLjY11Uusi:.... ...   .   :7Yrriri:..:r77ii...:.. ..irr::..   .r777rrr777
+i:::::iii::::i:ii::::i:i:::::::i::::::.::iii::::::ii:::i:i::::::::::::::.::irL77ii::.iI2L2LYLsYjuj7i:..... . .   .:     :vv7i77r   :ii::        .ri:.      r77r777r77
+r:rii:::iiiii::::ii:::::::i:::::ii::. :...:.::i:::::iii:::i:iii:::i:i::.::7777vv7:.   qu2XIIUYs1K:  .......  ..  .r       iv7irii    .:..   ri.  .ri:      .777r7r777
+i:i7i::::i:ii::::i:::i:::iii:::i:i:::... .:::iii::::::ii:i:::::i:::::::ii777r777ri.  s.  75dPqIsi  .......   ..  .:        :77iri.   .::..  ..ii...:.      .iL77rri7r
+r:i:i:i:i:::::i:i:::i::::::::ir:::::i::.. ....::i:::i:::ii:...::i::..:777r7r777ri:. 7Y     :s7i       .....   :.  .  ..     ::i:i.   .rri..   .77i...        .r77::::
+r:i::::iiii:::iiii:i:i::::.::i::::::::::..     ::i:::i:::i:::....:::.rr7777L77rr::...                  ...    i.  .. .L.       ..:   .ivii.      .            :i:::::
+r:r:iii::iiii:i:i:i:::::iii::.::i:::..:::..   .:ii::::i:i::::..  ..:v7rr7r77L77ri:...                  ...    i.   :  i         .::.  :r7i.                   ri:::ii
+i:irir:i:::i:i:::iii:iii::.:::::::.:.......:.. ::i:i:::::i:i:...   7js77777v7L77::...                   ..    ri   i. .:...     .:..   :ii.                   :7:::i:
+r:i:i:iiiii..:::i:::::7i::::ii:....   . ..::::::::::i:i:i:i:i... .i7LL7r7r777777r::..         .         .     su.  :: Ls.....                                  .::iii
+i:ii:::iir::.:.:::::::::irii::::i:.   .......::i:::i:iii:::iii::.i777J77r777777Y7r:... .     ..              .YD   .. L:  ...                                    :ir:
+r:rii:i:i:::i::::::::::.:iri::::ri.     .  ...::ii::::i:i::::iiirrv77Y27777777LLs7i......     .               77:ij:  :                                          .ir:
+i:iii7:i:i:i7r:::i::::::::.::i::.:.:.     .....::i:i:i:::i:i:i:ii777rrsu77777LvJL7i:......    ..              i25ji.         ...                                .ir7i
+i:i:i:i:iii:i:iir::.:.i::...:::........ ....::i:::iiri::::iii:::rrrrri7vY77777v7vi:::.:::.. ..::.       ...:::75P.             ii.. ...                         .r77r
+riii:::ii7ii:::iii:::i::::::....::.....:::.::iii:i:iirii:i:::i:7Yuu5SdIuYL7L7rir:ii7ii::.:....:r.  :7LL7.. .  ugr  :rYJJ7:..   ..::::ii.                 .       :iLi
+r:r:i:::::ir7ri:i:ii7i:::i7::...::::i:::::rii:::iri:::::iii::.rs5ISKbqPKbXU77rriii7rr::.:.:::.:i:..:7Iqui .   ER.   ..:7EMZb27i.  .:ir7r:..             ..        .ii
+i:iiiiii:::iir:::i:iii:iii:i:i::::::iri::iii:i:::iiiii:::::i::rL777L7jj1YuY7i7ii:iiiiiiivL:..:.:......:ii::..:2.               .ii:::i:rr7ir.                     .7i
+i:i:i:i:iii::::i7:i:::irr::::ii:i:::::iir:::::i:i:::rii:::::ii1PI11YsLY77rv7vr7irrv77rLvJi:.:.............:.:.      :.         .s77::..:ii7ii..                    i7
+riri:i:::rii:i::iiii:i:i:iii:i:i:7ri:::ii::::i:iiriiiii7r7ii::iKbqX5uuLv7L7v7LvYLY7viri:::::.:................       ii.    .::ri::rri. ...::..:.                  .:
+7:7:i:i:i::ir:i:i:i:rii:iiiii:i:iii:i:i:i:i7r:i:::rii:i:ii::i::iI2Ijs7LvLvL7LvLv7ri:i:i::::...:...:......  ...      .LMbu7:.L77i:....:r.. .::...::                  .
+i:ii:i:i:i:::r:i:::iii:i:i:iiiiriiiiivirii:i:i::::.::i:i:iirii::i2uJL77YvL7L7v7L77ii:i::::............:ri7:.    7DisXRQBPLiirrirrr::.::7rri7i:  .::     .i:i:...:i::.
+r:i:::iii:i:::iii7r:::ii7irii:iir:::::i:i:::::::i::::ii:i:i:i:i::7L777Lv7rv7LvYLY77ii:i::............ .iL:  .:::SSIDQbEb:.i:riiirrr:::iiriiii:. ..i.    .:7rr777777i:
+rir7ii:i:rrr:i:i:7ii:i:::i:i:i:::iii:i:::iii:i:i:iii:::iii:i::::irrv7Isv7sJJ7juUJY7rii::.........         :jusvbZjrL1SjJ7i:ririr7r:..irriririiii:7i.    .:i77rr7rri: 
+7:7rr:i:ii::iir::::irii:::i:i:i:i:iii:i:i:iii:i:i:ri::::::i:i:::::77YIIsjUS1JUbK5uJ77ii::::..     .isJqQKqdbEbEgEKL.....:.::rii::::...ii7irirr7::rvi:       .irrrrri.
+i:ii:iirii:iiiri:i:iiiir:i:i:i:iii:::iiiii:i:i:r:::iirii:::i:i:i.:7sJqSSUIuU5d1dqIjJvv7rrL:   .:ijSQMMgBMMXbMr:2 rSi .:7i: .:ri:..:: ..::riii7:::7r7r7i:.   .:rL77r7r
+r:r:::iii:iiiii:iii:i:::r:iii:i:iiiii:i:iii:i:iii:::::i:i:::iiii::ruqZRDbqDMMr iDIII5IKSSIU7U5QZXBqSP2PdqJDbi    .rJ:..:77:.::777.........iir:irr:ii7r777:      ir7ri
+r:irii:i:irr:i:::iii:i:i:iii:i:::iii:i::ir:i:i:i:iii:::iii:i::::::.iubZQMQD2.  :QDEMZDbZEMMBMZgM2gdu2XZM7::      i7:ri..:rii:ii777iiiiii:::riiii:rii:rir7r       :r7i
+r:ririiii:iii:iii:i:irr:i:::iii:i:i:iii:i:i:iii:i:iii:i:::iii::::.....iii:.  . :gPZdKU1YL7sYjisUSUb51Lr:rP7r1juj5bSr:rii:iriri. ..777rririririi..:rr7ri::ivi     :77i
+ririiririiii:iii:i:i:r:iii:iiiirii::ii:i:i:i:iii:i:::i:::::::iii.... ..... .:. 7b5IS5S11YjsY7i. ....     vjjSbX2sLvLr::i:..::7:    .iririririi:i..:rrri:  .7r:..:::r:
+7:7iiiririi:i:i:iirii:::rrrii:i:iiiii:::i:iii::irii:i:i::::.::iii::.. ....::i .Id22U21I2UJUs7i...     .  .   :YvL7LLjs7::    .ri:   .:777i7r7r7ri:..:r7i:   :7v7i::..
+i:iririiiririi:iiririiiiii:iii:i:iiiii:i:i:i:ii::irrii::.:.::::::i:::....i:i. Yd15IX551Ij21jLvi:....  ...7.  . 7jj1Iu1JLii:.  .::i::..:ii7i:.rr:.::..::iii::.:isLLLJL
+r:ririiiiir:iiriiiiiiiiir:::iii:i:i:i:riiii:iii:::::iii:..:.::::::::i::..:i...LsY7L1IIXUI1IujLuvr.:.  ...7.  sKXqKqU1Yvrvr77:.::irrii...ii:.::..7:. i::ivu5IXuY7uYjUI
+ririiiiririi:iirii:iiiiiiiii:::iri:i:::iiiii:::iii:::ii:::.:.::i:i::::::::.:::7i:rv7rLL1UIUIL77L7i:: :v7.L. rX: iYvY1L7L777vri:i:iivri:::..vi..J7:iD1.:7i.:rLSIUL7rYL
+7:7ii:iiririiiiiiiriiii:ir7ri:i:iii:i:i:::i:::::i::iri::i:i:i:iiiii:::i:::ii:rLrirYLL7vrvLJL7:...iu7:PDr.i :i  :L. .KJs7vrrrrrr::..::rJ77r1Sjjqj .77::r: .:.:i7rv77ri
+7irririii::rrr:i:irr:iii:::i:iii:i:iii:i::::iri::::rri:::::i:iii:irr:i:i.ii:.:iii:.:::rvs25SYr.. .77LJY:.. iijU7  .Ui:7YL7iriiiiii::isSqIILrrJ7..:  .i..:7i:rL7vri:ir
+r:ri7riiiiiiririi:i:i:iii:::i:iii:iii:iii:::iiiii:::i:::i::::iiii:iiiiri:::::::::.......::rLKdSIJrvii:::rLqZS:    :. .7vYYs7v7Lvs1L....:sY7:::irKL.:27:r7. .ii:.::i7L
+r:i7iiiiirii:::iri:i:r:iii:i:i:iii:i::::ii:i:::ii7ii:i:i:i:::::::riiiiiii::::7r:.......... ..i:7i::iirr5Usi          ::..ir7Yus1sjL7:. .7u2PUY77ujYu..i7..:i..rsrYUKj
+7i7iiii:iirii:i:iiiirii::irii:iiiii:iii:::rii:iii:rii:i:i:i:i::::irir:i:iii::77:... .   .  .. .     :::.                .rirLvL7v7L7.   :75LvLuJJJXi.rX.:UU:.7qXX5L.i
+rir7iiiriiirrriiiiiiii:i:iii:riiii:ii7riii:iiriiii:iiriiii:i:iii:iiiiiii:iii:r:...         .....:i::                     LU7.  :7JvvrL7:rSiriirJqqsJXP:.:r......:r:. 
+7:7i7rririir7rriiiriri777ii:iiriiiiiiiiirii:iiriiiiii:iiiii:iiiiiiririii::i:ri:.      ::vubXXUXdb2uu5Y7r7r7::::.:..   .  ii:r7YLjJjYJKZXX7:7qvvPP77UXi:rv.:js:ii::LjL
+r::i:i:::i::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::irrrr7v:        .. .   .vPi:::7SYr:                  LqSUji.i5JusILri:..JIr77r::::.:.. :7ri7vs7

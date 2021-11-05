@@ -1,0 +1,72 @@
+:.:::::::::::::::.:.........:::::::::.::::::::::::::::::::::::::::::::::i:::::i:i::::::::::::::::::::::::.::::::::::::::::::i:i:::::::::::i::::::::::::::::::::::::::
+: .................. .   . ....................... . . ... ..... ....................... . . . ..................................................................... 
+:.:::::::::::.:.:.:.........:.:.:.::.......::::::::::.....:.:...:.:::...::::::i:i::::::.........:::.:.::::::::::::::::::i::.:...::::::::::i:i:::::::::::::::::::::::.
+...:.:.:.....:.:.......:.:...:.:.:.:.......:::::::.:.......:.:.:.:::::.:::::::::::::::::.........:.::::::::::::::::::::::....:...:::::::::::::::::::::::::::::::.:::.
+:.:.:.:...:.:...:.....:.:::.:.:.:.:.:::.:.:.:.:::::.:::.:...:::::.:::::::.::::i::::::::::...........:::.:.:::::::::::::::::::::::::::::::::.:::::::::::::::::.::::::.
+.......:.................:.:.:.:.:.:.:.:.:.:::::::.:.......:.....:::::.:.:::::::::::::::.........:.....:::::.:::.:::::::::::::.:.:.:::::::.:::::::::::::::::::::::::.
+:.:.......................:.:.....:::.:::::::::::.......:.:.....:.:::...::::::::::::::::................:::::::::::::::::::::.:...:.:.:.:.:.::::::::::::::::::::::::.
+.......... ......................:.:.:.:.:.:.:::.:...........:.:...:.:.:...:...:::::...........:.:...:...:.:.:.:::::::::.:.:.....:...........:.:::::::::::::::::::::.
+......... ..............................:.:::.:.:.:.:.:...:.:::.:...........:.:::::::.... ... . ..:.:::::::::::::::::::.:.:.............:.:.:::::::::::::::::::::::::
+............ ... ..:.........................:.:.:.:::::::::.:::::.:...........:::::...:.... ........::::::::::::::::::::..:...... ....:.:::::::::::::::::::::::::::.
+. ....... . . ................... . ... ......:.:.:::.:.:.:.:::::::::::::::.. ..:::...:.i7::YSbqXJs7i...:::::::::::::...............:.:.:::::::::::::::::::::::::::::
+.......... . ..................... ..................:.:.:.:.:.:::::::::::::::.:::.:rvrLbZsqdgEZdZbdbbr:.::::::::::i.:...............:.:.:::::::::::::::::::::::::::.
+. .......   ........................... . ... ..........:.:.:.:::::::::::::::::::..rDMREDZMEZqI1XPbKK5E5v..:::::::::................:.:.:.:::::::::::::::::::::::::::
+. ......  ................ ....... ........................:.:::.:::::::::::::::.::rjPKdbbbEEEKPqDEDPX2qX2:.::::::::.:.............:::::.:::::::::::::::::::::::::::.
+. ....... ................. ................. . . ....:.........:.....:::::::::::rJs2XEDgdggMDEZMDMZZPK5KbK:.::::::::::::...........:::.:.:::::::::::::::::::::::::::
+. .... ................... ........... .   . . ..:.....................::::::::iivuujqbdPbbEbEqqUU12jUbEbdb7.:::::.:...............:.::......:::::::::::::::::::::::.
+. ....................... . ....................:........................::::::::iYSUYY77rrirrri::::::rudPZr.::::::::::.:.........:.:::...:...:::::::::::::::::::::::
+. ........................ ............. ............:.:.............. . ....::.LXjJ777777iiiririiiiii:7Jbd7.:::::::::::..........::::........::::::::::::::::::::::.
+. ..................................... . . ............... ............:.....::Sd57LvLLs77r7r7r7iriiiiiv5ZL..:::::::::..........:::::......:::::::::::::::::::::::::
+. ........................ ............. ........................:...... ......:bM2L7L7vLL77rrr7ri:::i:rLXdj.:::::::::::.........:::::.....:::::::::::::::::::::::::.
+. .......................   ......... ................... . .   ..  ... ..::.:::qbU7YjKIS5q2Jr7vuJjLvrii7XEr.::::::::::::.......:::::.......:::::::::.:.:::::::::::::
+..........................   ............................................:::.:::YbsLYuuUuUj5U27r7XPq1JL7rb7.::::::::::::::::...:::::::.......:.:.:::::::::::::::::::.
+. ......................................................:.:.....:.. ....:.:::.:.7SUYJYUuUu1sUu7:i7IujL7rrX:.:::::::::::::::::::.:::::...:.:.:.:::::::::::::::::::::::
+.....................................................:.......  ... ..:::.:.:.::rr7:rYL7v7LLYYJrriiii:iiirjri::::...:::::::::::::::::.:.:::.:......::.:::.:::::::::::.
+. ............... ... ....................... ................. ..:::::.:.:.:.rKIr iJLsLJsjYjY7rrrririri77Lr:::.....:.:::::::::::::::::::.:.. . ..:::.:.:.::::::::::.
+. ............ . . .  ....................   . . . . ..:.....:...:::.:.:.:.::..sIJ:rsJYjsjsII5JJ7777irrrrsr:.............:::::::::::::::.:..     ....:::::::::::::::.
+. ......... . . . .   ..................... ..    . ............:.:.:.:.:.:..  :s5KJsLsLsLY7vrri::7r7r777r:...:..........::::::::::::.:.:.... ... ......::::::::::::.
+. .... ...     .       ....................... . . .   ........:...:.:::.... .  .L77YjYsLJJ1v77L77rrr777i:::..............::::::::::::::::.. . ..........:.:::::::::.
+. ..... . .           .   ...............     . .   .   . ..:...:...:...... . .    .LsjLY2gEdXXPQMJi777....................:::::::::::... .   . ..........::::::::::.
+. .........................................................:.:.:.:.:::.:::::...:.. :iYLjYJLs7riJLri7r7...:::::::::.:.......:.:.::::::::....................:.:::::::.
+. .                 . . ........................:.:.:.:::::...:.:.:::::::::::::::..:7iLsuLsJujJ7ri7r7r:::iiiiiiii:i:i:i:::i:i::::::::::::...::::::i:i:i:i:i::::::::::
+. .                    . ................. . . . .   . .....::.:::::.............  .vs7sYsYLvL7rirr7rr...:::::::::.:.:.:.::::::::::::::... ..... ............:..::::.
+. .                 ................  .   ...             ..:.:.::::..... ... .   ..711Ju1UjUY7ir77r7iYr.   ..................:::::::::...... . . ..............:::::
+.  ...              ................ ......................:::::::::.........    ir:rs:i:::::71j7777rr:BMu.    ..........:.:..:::::::::::i::.......:.......:...:::::.
+. . .              ................ . ... . ..... . ..... ..::::::::.....     .:7sr.7sL7LLj77vYr7r77rv.7BQQXv:.     ......:.:.::::::::::i::::.............:::::::::::
+.  . . .         . ................  . .   .         . .  .::::::::..  ....r7j1s71.:jULujusjjvYvr7r77K.:QggBBBBMqU7:..     ..::::::::::::::::::..........:::::::::::.
+. ... .       . ... . ............. ... ..... ..... ..... ..:::.:.....i7IqMMEDBEjj.:JXJL1YJJvi2v7r7LEr..RDdbMDQQBQBBQMgXj7i.. ...:::::i:::i:::i::........::::::::::::
+   . . . .     . . ..................... ... . ...   . ....:.....i:7LSqMRBMMMRMQ5K.:.L7JsJYJrrJJ7L257..iMDPddZEMZMMQMBBBQBQQqji:...::::::::::i:i:i:....:::::::::::::.
+.   . . . ... . ................... ..................... ...iiis1bERQQMMZgDgEDZQRr.:.ju1YuY7ius2P2:....DZbbDbDEgZMZMDMDRgBQBQBRMKL..:::::::::::i:i::.:::::::::::::::
+.    ... . ......... ... ......... ..... ... . ... ..... rvLUPbDgQRQgMDgZgZgZDEgZBb:::j21UU2srSIYr:..:..qMbZbEdDdMZMZgEgEgDMZMMQQBQ5..:::::::i:::::i:::::::::::::::i.
+.     ... . . .....   . ........:.. ......... ...........PBMQRMMRZDEDZDEgZgDgEgDgBM:i:5JLvJ7riYi:.:::. LBdEbDdDEgDMDgDMZMZgZDEgEgdRQ1.:::::::::::::::::::::::.:.:::::
+       ... .........     ......... ...............  .. .LMMDdgZDdDdDdDEDZMZgDgZMMRq:::77LU1L:r....::..:QRZbEbEZDEMZMDMZgZgEgZgEDEZbQQ: :.:::::::::::::::::::...:::::.
+. .   . ....... .   . . ........:.  ... . ... ..... .. .PDMdZEZdgZZEZEDEMDMZgDgZgM5i7vK1j7L7LssYLr:..:1MgdddDdZdDZMZMZMZgZgZZdZdZbEZB1..::::::::::i::::::...:.:....::
+. .    ....... .   ......:.....:.. ................... iDgZDdDdDEDEDdgEgZgZgZMZgZBRRDbquii:1Iuu52uriiUqRDEbZEZEDEMZgZMZgZgZMbEdZdEbZgB:..:::::::::::::::::.:.:::.:::.
+. .   .........         ......:.................:......sBMgdZEDEZEDEDZgZMZMZgZMZMZBbr7Ss.::LsYUj1jI25LYdgdEdgdDEDZgZgZgEgDMDZbDdZdZEDQI .::::::::::::::::::.:::::::::
+. ............ .   .   ..:.....:.. . . . . .   ..   .. LQMZgEgDgEZdDdDEDZMDgZMZgEMMZuI51::.7L77v777sLvjPZDdDdZEZEDdgDgZMZggMdZdgZDdDbMQ..:.:.:.:::::::::::.........:.
+. ................... ........::..:.:.:::.:.:.::..:....:RMDZgDMEZEZdDZDdMDgZgDgZMDRM2rLi::.ruvsLYLJJUJ2dRdZdDdDEDEZEMDMDMZMgZdDZMEZEZdBr..:.:::::::::::::::::.::..:::
+. .................. . ..:...........:.:::.:::.:.::::..:PBDgZMDgdDdZdDEggMDMDMDMZMMRIIU7.:.JqIsuJJLLLYLSdgdDEZZgEgZggMDMDRgRZgZMDDEDEZBK...:.::i:::::::::::i::::.:.:.
+. ...................  .:...... ....... ..............v71gMZgDMZDEDEDEDEMgMZMDMgMgQMSuUJI7vYY7L77irr7LIKREDEDEDEDDgZMgMgMgMMgZMZMEDEZEBM:.:.::::::::::::::::i::::.:::
+. ......   ........... .::.:.:.....:.................2BgbZZMDMDgZgdDdgZDgMDMDMgMDMgQPj77LKI2UI2KXqKX5KU1XQZZEDEgEMDgMRgMMMgRZgZMDgbDEgRQ...:::::::::::::::::::::::::.
+. ..... .   . ......:.:.:.:::...........:.....:.....:RBRRZMDMgMDgEgZgDMgRgMgMMMDMgRMg5qSLvd25uIsjs777rjYXggbDdgEDZgDMgRMMgRMgZgZDEZdMgQQ7 ::::::::::::::::::::::::i::
+. .. . .       ........:.:.::............:....:.... rBMRDgZMDgDMDMDMMBQBQBRQMMgMDMDQDJrrvLvvvYYuJjYU5PSXbMMddDEgEgZDMMgMgMgRZDZDZgZDEMgQd:.::::::::::::::::::::::::i.
+. .             ....:.:::.:::...........:.....:.... 1QMDMEMDMDMgBBBBBMDqbSqEMMRgMgMgBILJIJXUX5q5S1UUIuJJ15ZgZdDEZZgZMgRMRDMggEgEgZMZMZMZQU .:::::::::::::::::::::::::
+.    .         ....:::::.:.::..................... :MBZMZgDMgMQBBbYr....iLuSXZZMMMDMRd7LLJL77LLY7LLsLJL1UPMRdDdZdgEDgRMQRMDMZgDgEgEMZMDMgQ:..:::::::::.::::::::::::i.
+.             ......:.:::::::.....:.:.:::::::::.. rZBggDMgRMBQMU:.:iLIPPqS5jIPggMgMDQZsvJu2v1U55bPbqbXKII5EDZdZdDdgZRgRMQgMggEgZMgMZgDMDDgM:..:::::::::::::::::::::::
+.              . ....:::::::...........:.....:...qBQgMZgZMRQRX:.:YUSKEK5u1YUSDgQMRggMM527J25uUISUUJsLJs2uuXgDMEZdZZQMMgQRRgRZgEMQBMRDMDMDRBQr .:::::::::::::::::::::.
+.               . ....:::::::.....:.....:...:...7gBDggMDMgBRU.:i7rsj1Ys7YYUXEDMMMMMDRMI7LssvJL1u2U5SPqMMQMMQBRMEEbDMQgQRBMMgDZDERQQMMEMEgDMQB: .:::::::::::::::::::::
+. ...... ..... .......::::::.....::....:.:.:.:.iU5PZDRDMgQZJr77LsUsJYYLsLJYUIEZQMMDMMQbJ7IPSXPXSIPKK55LYLUjIPRRgPbEMMMMQRRgRZgEggQMQDgDDEgDMQQ7...::::::::::::::::::.
+.   .         ..  ....:::::::....::::::::::::..iBBbPMRBRQRML7LuuUjjsjYjLuJuJujDMMMRDRQbsL2PLjJUJuj1s1112Sju1KEBgEdZEQgRRQRREgZDbMRBQQMQZgEEdRBBSr..:::::::::::::::::.
+   ..          .   ...::::::...........:.:.....2bXPMQQdMMEs77LJ1JjLJYJLYYXPDMQBBMRgMgBb7YY1UuU1KSKXKI5IS5qIUjEQRDDdDgQRQMQMMZgEgZQQQMQRQRBMRDgMBBD:.::::::::::.:::::.
+.         .   ..  . .:::::::..........:.:.:...sQRRMbKs1gXrir77JJjJY7vr7rL7JXQQQRRgMDRMQ2sJEKqXb5XSKSX22U2uXbMbQQBZgEgMBRQMMMMZMZDZMDQRQMBQBggDMZBB7.:::.:.:.....::::.
+.  . . . . .  .. . ..:::::::....::...:::.::. UBBgRE2LEB5rYJjLYLjsj77LuUqXdDBQQMQMRMMMQQ7r2UJYjsjjUL12S12U5U5U5qBMMgMERRQRMgMZgDgEgMBQBRQRBMMMQMRMB7..........:::.:::.
+. . . .....   ......:.::::::....::...::::.:.uBQDMb5KEBdJbbX1ju2jY7LIBQBBBBBQQMQMRMRgRRBK72bSKSKSbbK5KS5252IuUSZRQgRMMMQMQgMggZMEZZQQBRBRQQRRRDRgMMbj7.::r7L7v7v7Li:::
+. ..........  .......:::::::.........:::....5BbMgqqRMqKMZqSS1Uu1vYEBQBQBRQRQMQMQgRgRMRB57IK55X5IUS5K2IUSU2I5ISKggQRRgMgQMRDRZMZgERQBRBRQRBRBRMMRRBBBEKXqKq5XIq22JYri.
+. ........... ......:::::::...........:.:.:..qBDDbZdbdQ52bEKS12UXdBBQRQMQMQRQMQRRgQgRMBXLjI1UjI11sjJ115U555IqbgKZMQMQMMDMMQgMgMMMMBRBQBRBQBRBQBQRgdKKUSSqSqXPbbSU7r:.
+. .. . ..........:.:::::::::.:.:::..::.:.:.. iQQEgZdEqirSMgZPZdEZBQQMQMQMQRQRQMQMRgRMRQbLII22XSqSS5KXqXPKqqbPqPZqMQQMQggEMRRgRMQgQQBQBQBQBQBQQRBMEKX2KXK5X5KXX1UY7::.
+. . . . . ..........:::::::....::...:::.:::.. SQBDgDg77ZRZgEMZMEgMQMQMRMQMQMQMQMRMMgMMBKJIXU55SSbPESIJI25ujsU15PDqQQQMQRgEMgRMQQQQBQBQBQBQBRBQBQMbPSS5PX52X2ILL7rii:.
+. ..   . .   ....:.::::::::....:.....:.:.:.:..:ZBBBQZDgREDEDDRMMgMMRgQMQMQMQRQMQgRMMMQQPvXb5uusjYjYUujYjJ1jISXbgZqIQQQRQgMDMRQRBRQMBBBQBQBRBQBRBQRZdXqSSUXUuLL77rr::.
+. ..............:::.:::::::.....:.:.:.:...:.::...rXRBQBQQRBBBgqQBMRMQMQRRMQMQMRMMMRgMMQKs2XKdqK5qXq5X5I15uUj225XgR1bBRQMQgMDQMQRQRQRBBBBBBBQBRBMQQBEbXS1UUUsJLL77i:::
+. ...........:.:::::::::::::::::::::::::::::::.....:75bRgQZ2r..MQRMQMMDMMMMRMQMQgRMMgMQXLSIK555I155X2S1UjbgbIbZDgBS2MBMQMQMRMQRQRBMQQBQBBBBBQBQBQBQBMZbXUXIIJusu7i::.
+. ..............::::::::::::i:i:i::::::::::::::::::.. ..:.... :MBgQMQDPgQgQMQMQRRMRDMgB5jJLrr1XSbDBQBQBR:7BP.UBBBBQjIMBRQRBMQMQRQQBb::i7s5BBBBBBBQBRBBBMQRMEEPbSvi:::
+: .............:.:.:.:.:.:.:.:.:.:.:.:...:................ .. :BRDDMgRMRgMMMgRMQgRgMDQRI7XBQDBMu5BE7:7JMi:BB.LQBMQRqsIMBMQRBMQMQMBBB:      .:vjPbDEMMQMQMQRQQQdL.... 
