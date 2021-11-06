@@ -6,3 +6,9 @@
 如果有人有任何建議歡迎聯絡我，無論是FB、youtube、email還是發pull request，只要是好的建議我都會採納~
 
 >> [Youtube連結](https://www.youtube.com/watch?v=hHi6dG7U5Mg)
+
+## 11/7
+
+因為看到板上有大神用前端做星爆氣流斬，因而突發奇想看看國外有沒有相關的函式庫搞ASCII art的，結果還真有?!<br>
+[mir3z/aalib.js](https://github.com/mir3z/aalib.js)是用JS做的，看到這麼有趣的東西我一下子忍不住就載回來玩了XD<br>
+另外又因為王開育電神有把他Python版本的rickroll分享給我，因此我在這邊也附上原始碼，並分類成三個版本的rickroll，希望能有更多大神指教。
